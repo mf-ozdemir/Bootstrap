@@ -1,0 +1,16 @@
+.col {
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 230, 0);
+}
+
+h4 {
+    display: inline;
+    padding: 20px;
+}
+
+.card {
+    display: flex;
+    justify-content: flex-end;
+}
+
